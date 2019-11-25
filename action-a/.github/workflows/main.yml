@@ -6,4 +6,4 @@ jobs:
     - uses: actions/checkout@v1
     - uses: ./action-a
       env:
-        MY_NAME: "Jay"
+        MY_NAME: "Mona"
